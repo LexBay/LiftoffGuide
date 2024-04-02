@@ -1,7 +1,8 @@
 | Professional Skill Classes | Technical Skill Classes |
 | --- | --- |
 | Topics: | Topics: |
-| Expectation Setting | Project Scope/MVP |
+| Expectation Setting
+Liftoff Requirements Overview | Project Scope/MVP |
 | Liftoff Requirements Overview | Intro to Agile/Liftoff version of Agile|
 | Career Readiness Visit | Using Github for Project Management|
 | Professional Communication | In Class Activity: |
