@@ -8,6 +8,7 @@
 | Professional Communication|In Class Activity: |
 | In Class Activity: |Project Brainstorm and Set Up |
 | Group Intros, Team Building| Due: Group Expectations |
+| | |
 | Week 2 Topics:| |
 | Transferable Skills|User Stories |
 | Resume Writing| Wireframing |
